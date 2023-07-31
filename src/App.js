@@ -1,12 +1,12 @@
 import Header from "./components/header/Header";
-
+import MeelsSummary from "./components/meels-summary/MeelsSummary";
 
 function App() {
   return (
     <div >
       <Header />
-      {/* <MeelsSummary />
-      <Meels />
+      <MeelsSummary />
+      {/* <Meels />
       <MeelItem />  */}
 
     </div>

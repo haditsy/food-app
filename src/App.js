@@ -3,7 +3,11 @@
 function App() {
   return (
     <div >
-      Order Food
+      {/* <Header />
+      <MeelsSummary />
+      <Meels />
+      <MeelItem />  */}
+
     </div>
   );
 }

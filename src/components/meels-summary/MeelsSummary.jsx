@@ -40,7 +40,7 @@ const MeelsSummary = () => {
     border-radius: 16px;
     padding: 1rem;
     box-shadow: 0px 6px 16px 0px #0000004D;
-    margin-top: -7rem;
+    margin-top: -6rem;
     position: relative;
     & > h2{
         font-size: 2rem;

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/food-app/static/css/main.4e1c6a7b.css",
+    "main.js": "/food-app/static/js/main.70959f8d.js",
+    "static/media/pexels-alexy-almond-3756523 1.png": "/food-app/static/media/pexels-alexy-almond-3756523 1.ba5adfeb2a196bc53ae2.png",
+    "static/media/basket-icon (2).svg": "/food-app/static/media/basket-icon (2).c36faa3efca4c2a3b7311ff4f8994381.svg",
+    "index.html": "/food-app/index.html",
+    "main.4e1c6a7b.css.map": "/food-app/static/css/main.4e1c6a7b.css.map",
+    "main.70959f8d.js.map": "/food-app/static/js/main.70959f8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e1c6a7b.css",
+    "static/js/main.70959f8d.js"
+  ]
+}

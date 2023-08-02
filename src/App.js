@@ -1,6 +1,7 @@
 import Header from "./components/header/Header";
 import MeelsSummary from "./components/meels-summary/MeelsSummary";
 import Meels from "./components/meels/Meels";
+import Modal from "./components/UI/Modal";
 
 
   const DUMMY_MEALS = [
@@ -36,7 +37,7 @@ function App() {
       <Header />
       <MeelsSummary />
       <Meels meals={DUMMY_MEALS}/>
-
+      {/* <Modal /> */}
     </div>
   );
 }
